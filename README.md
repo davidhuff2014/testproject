@@ -10,3 +10,5 @@ Yet another change
 More changes
 
 And again
+
+Try it with SublimeGit!
